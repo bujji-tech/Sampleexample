@@ -13,6 +13,8 @@ public class wish {
 		 for (int j=0; j<list2.length;j++)
 		 if(list1[i]==list2[j]) {
 			 System.out.println("commen elements is: "+list1[i]);
+			 System.out.println("commen elements is1: "+list1[i]);
+
 		 }
 			 
 		
